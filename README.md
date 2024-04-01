@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkateshwarlu T</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
-
+https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh523&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh523" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatesh523" alt="venkatesh523" /></a> </p>
