@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **TAL Projects**
 
-- 🌱 I’m currently learning **Aws, Docker, GCP,Jenkins**
+- 🌱 I’m currently learning **Aws, Cloud, GCP,Jenkins**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
