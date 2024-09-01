@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **TAL Projects**
 
-- 🌱 I’m currently learning **Aws, Cloud, GCP,Jenkins**
+- 🌱 I’m currently learning **Aws, Node.js, Jenkins**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
 - 🤝 I’m looking for help with **Devops**
 
-- 💬 Ask me about **Swift, Devops**
+- 💬 Ask me about **Swift, Backend**
 
 - 📫 How to reach me **tvenkateshwarlu39@gmail.com**
 
