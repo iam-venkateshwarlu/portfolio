@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Venkateshwarlu Thiramdasu</h1>
-<h3 align="center">A passionate Devops & SRE Engineer from India</h3>
+<h3 align="center">A passionate Mobile & Devops Engineer from India</h3>
 
 - 🔭 I’m currently working on **Toucha-A-Life project**
 
-- 💬 Ask me about **Devops, SRE**
+- 💬 Ask me about **Swift, SwiftUI**
 
 - 📫 How to reach me **tvenkateshwarlu39@gmail.com**
 
