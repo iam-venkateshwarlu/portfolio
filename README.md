@@ -73,9 +73,8 @@ I am a DevOps Engineer with 8+ years of IT experience in software development, c
 ---
 
 ## 📫 Contact Me
-- LinkedIn: (Add your LinkedIn link)
-- Email: (Add your email)
-- GitHub: (Your GitHub link)
+- LinkedIn: https://www.linkedin.com/in/venkateshwarlut/
+- Email: tvenkateshwarlu1210@gmail.com
 
 ---
 
