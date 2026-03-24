@@ -1,15 +1,84 @@
-<h1 align="center">Hi 👋, I'm Venkateshwarlu Thiramdasu</h1>
-<h3 align="center">A passionate Mobile & Devops Engineer from India</h3>
+# Hi, I'm Venkateshwarlu 👋
 
-- 🔭 I’m currently working on **Toucha-A-Life project**
+## DevOps Engineer | AWS | Kubernetes | Docker | CI/CD | Terraform
 
-- 💬 Ask me about **Swift, SwiftUI**
+I am a DevOps Engineer with 8+ years of IT experience in software development, cloud infrastructure, CI/CD automation, and containerized deployments. I enjoy building automation, scalable infrastructure, and deployment pipelines.
 
-- 📫 How to reach me **tvenkateshwarlu39@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 DevOps Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+**Cloud:** AWS (EC2, S3, IAM, VPC)  
+**Containers:** Docker, Kubernetes  
+**CI/CD:** Jenkins, GitHub Actions  
+**Infrastructure as Code:** Terraform  
+**Monitoring:** Prometheus, Grafana, CloudWatch  
+**Scripting:** Bash, Python  
+**OS:** Linux (Ubuntu)  
+**Version Control:** Git, GitHub  
+
+---
+
+## 🛠️ DevOps Projects
+
+### 1. End-to-End CI/CD Pipeline
+- Jenkins pipeline for automated build and deployment
+- Docker image build and push to DockerHub
+- Kubernetes deployment using YAML
+- SonarQube code quality scan
+- Trivy security scan
+- Automated deployment to Kubernetes cluster
+
+### 2. Terraform Infrastructure Automation
+- Created AWS infrastructure using Terraform
+- Provisioned VPC, Subnets, EC2, Security Groups
+- Used Terraform modules and variables
+- Remote state management using S3
+
+### 3. Kubernetes Application Deployment
+- Deployed containerized applications
+- Used Deployments, Services, ConfigMaps, Secrets
+- Implemented rolling updates and scaling
+- Troubleshooting using kubectl logs and describe
+
+### 4. Linux Server Setup & Automation
+- Configured Linux servers
+- Setup web servers and application environments
+- Wrote shell scripts for automation tasks
+
+---
+
+## 📂 Tools & Technologies
+
+| Category | Tools |
+|---------|------|
+| Cloud | AWS |
+| CI/CD | Jenkins, GitHub Actions |
+| Containers | Docker, Kubernetes |
+| IaC | Terraform |
+| Monitoring | Prometheus, Grafana |
+| Scripting | Bash, Python |
+| OS | Linux |
+| Version Control | Git |
+
+---
+
+## 📈 Currently Learning
+- Kubernetes Advanced Concepts
+- Helm
+- ArgoCD
+- AWS EKS
+- Monitoring & Logging
+
+---
+
+## 📫 Contact Me
+- LinkedIn: (Add your LinkedIn link)
+- Email: (Add your email)
+- GitHub: (Your GitHub link)
+
+---
+
+## 🔥 DevOps Project Flow
+
+Code → GitHub → Jenkins → Build → Docker → Push → Kubernetes → Deploy → Monitor
